@@ -41,3 +41,5 @@ do
     # apelez funcția cu cei 3 parametri: nume host, IP și server DNS
     verifica_ip "$name" "$ip" "8.8.8.8"
 done
+
+echo "modificat de altcineva"
